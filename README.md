@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jesusave
-- 👀 I’m interested in blockchain
+- 👀 I’m interested in blockchain and javascript
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on OpenSource projects
 - 📫 How to reach me - jesus.avelar.nav@gmail.com
