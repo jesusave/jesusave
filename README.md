@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wisusdev
-- 👀 I’m interested in flutter and golang
-- 🌱 I’m currently learning Flutter and Angular
+- 👀 I’m interested in golang and java
+- 🌱 I’m currently learning English
 - 💞️ I’m looking to collaborate on OpenSource projects
 - 📫 How to reach me - wisusdev@gmail.com
 
